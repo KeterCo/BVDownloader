@@ -16,27 +16,54 @@
 
 
 
-程序界面
+
+
+
+
+
+
+程序界面：
+
+
 ![image](https://github.com/user-attachments/assets/d8e33911-9cc3-4aaa-82d0-2ebf52165122)
 
 
 
-下载结果
+
+
+
+下载结果：
+
+
 ![image](https://github.com/user-attachments/assets/9f7fbfc0-a301-4046-9596-0d063929acf3)
 
 
 
-如果不需要登录后下载，请取消这个勾选
+
+
+
+如果不需要登录后下载，请取消这个勾选：
+
+
 ![image](https://github.com/user-attachments/assets/844119f7-d1de-437f-9bb7-b0a4069a2d47)
 
 
 
-下载结果如下：
+
+
+下载全部成功结果如下：
+
+
 ![image](https://github.com/user-attachments/assets/842fa9f1-f766-4a27-836e-bd0f62271f0f)
 
 
 
-下载失败会有简单的提示：
+
+
+
+下载失败也会有提示：
+
+
 ![image](https://github.com/user-attachments/assets/879b1149-5dd3-4a77-bf16-0b5c445fe687)
 
 
