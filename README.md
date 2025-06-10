@@ -13,8 +13,12 @@
 /tools/BBDown.exe
 
 
+
+
 感谢大佬提供的BBDown.exe，该项目地址:https://github.com/nilaoda/BBDown
+
 做了个简单的UI界面。
+
 本地程序日志和配置文件在C:\Users\User1\AppData\Local\BVDownloader。
 
 
