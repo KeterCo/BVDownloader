@@ -1,11 +1,7 @@
 # B站视频批量下载器（通过BV号下载）
 通过bv号批量下载b站视频，可以自定义下载位置，默认需要登录下载，默认登录后为最高画质下载，也可以不登录低画质下载。
-
 开发环境python3.13.2、win10。
-
 推荐扫码登录后下载。
-
-
 程序需要搭配BBDown.exe使用
 
 推荐程序目录结构
@@ -19,9 +15,7 @@
 
 
 感谢大佬提供的BBDown.exe，该项目地址:https://github.com/nilaoda/BBDown
-
 做了个简单的UI界面。
-
 本地程序日志和配置文件在C:\Users\User1\AppData\Local\BVDownloader。
 
 
