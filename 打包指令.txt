@@ -1,0 +1,29 @@
+pyinstaller --onefile --windowed --icon=D:\个人文件夹\系统\icon-windowed.ico --hidden-import=json --hidden-import=logging --hidden-import=queue --hidden-import=threading --hidden-import=subprocess --hidden-import=datetime --hidden-import=enum --hidden-import=locale --collect-all tkinter --clean main.py
+
+pyinstaller --onefile --windowed --icon=D:\个人文件夹\系统\icon-windowed.ico --add-data "bvconfig.json;." --hidden-import=json --hidden-import=logging --hidden-import=queue --hidden-import=threading --hidden-import=subprocess --hidden-import=datetime --hidden-import=enum --hidden-import=locale --collect-all tkinter --clean main.py
+
+
+pyinstaller --onefile --windowed --icon=D:\个人文件夹\系统\icon-windowed.ico  --hidden-import=json --hidden-import=logging --hidden-import=queue --hidden-import=threading --hidden-import=appdirs --hidden-import=subprocess --hidden-import=datetime --hidden-import=enum --hidden-import=locale --collect-all tkinter --clean main.py
+
+C:\Users\User1\AppData\Roaming\Python\Python313\Scripts\pyinstaller.exe --onefile --windowed --icon=D:\个人文件夹\系统\icon-windowed.ico --hidden-import=json --hidden-import=logging --hidden-import=queue --hidden-import=threading --hidden-import=appdirs --hidden-import=subprocess --hidden-import=datetime --hidden-import=enum --hidden-import=locale --collect-all tkinter --clean main.py
+
+
+
+C:\Users\User1\AppData\Roaming\Python\Python313\Scripts\pyinstaller.exe --onefile --windowed --icon=D:\个人文件夹\系统\icon-windowed.ico  --hidden-import=json --hidden-import=logging --hidden-import=queue --hidden-import=threading --hidden-import=appdirs --hidden-import=subprocess --hidden-import=datetime --hidden-import=enum --hidden-import=locale --collect-all tkinter --collect-all appdirs --clean main.py
+
+pyinstaller --onefile --windowed ^
+--icon=D:\工作材料\程序\程序备份\其他\icon-windowed.ico ^
+--hidden-import=json ^
+--hidden-import=logging ^
+--hidden-import=queue ^
+--hidden-import=threading ^
+--hidden-import=appdirs ^
+--hidden-import=subprocess ^
+--hidden-import=datetime ^
+--hidden-import=enum ^
+--hidden-import=locale ^
+--collect-all tkinter ^
+--collect-all appdirs ^
+--add-data "tools/BBDown.exe;tools" ^
+--clean ^
+main.py
